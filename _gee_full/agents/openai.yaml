@@ -1,0 +1,4 @@
+interface:
+  display_name: "GEE Dataset Intelligence"
+  short_description: "Search and compare GEE datasets / 检索和比较 GEE 数据集"
+  default_prompt: "Use $gee-dataset-intelligence to find and compare suitable Google Earth Engine datasets for my geospatial task. 使用 $gee-dataset-intelligence 为我的地理空间任务检索并比较合适的数据集。"
