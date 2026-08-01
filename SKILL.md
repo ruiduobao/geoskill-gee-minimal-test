@@ -1,3 +1,8 @@
+---
+name: GEE Minimal Test
+description: 'Minimal smoke test for the GEE dataset intelligence catalog. Use to verify a Google Earth Engine (GEE) Python environment is correctly configured before running the full `geoskill-gee-dataset-intel-v1-final` skill.'
+---
+
 ﻿# gee-dataset-intelligence
 
 Search, filter, compare, recommend, and explain Google Earth Engine (GEE)
